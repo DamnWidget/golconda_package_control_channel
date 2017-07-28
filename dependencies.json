@@ -1,0 +1,20 @@
+{
+    "schema_version": "3.0.0",
+    "packages": [],
+    "dependencies": [
+        {
+            "name": "libconda",
+            "load_order": "56",
+            "description": "Python module to use Golconda standalone IDE service",
+            "author": "DamnWidget",
+            "issues": "https://github.com/DamnWidget/libconda/issues",
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "base": "https://github.com/DamnWidget/libconda",
+                    "tags": true
+                }
+            ]
+        }
+    ]
+}
