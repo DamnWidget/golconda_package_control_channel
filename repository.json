@@ -1,8 +1,0 @@
-{
-    "schema_version": "3.0.0",
-    "packages": [],
-    "dependencies": [],
-    "includes": [
-        "./repository/dependencies.json"
-    ]
-}

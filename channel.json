@@ -1,6 +1,0 @@
-{
-    "schema_version": "3.0.0",
-    "repositories": [
-        "./repository.json"
-    ]
-}
